@@ -5,6 +5,7 @@
 
 Copy the config.rasi file into ~/.config/rofi
 <br><br>(i just saved you 5 clicks no need to thank)</p>
+no screenshot bcuz it dissapears every time you click off (blame upstream)
   ## License
 
 [MIT License](./LICENSE)
