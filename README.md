@@ -4,7 +4,7 @@
   <p>
 Copy the config.rasi file into ~/.config/rofi
 <br><br>(i just saved you 5 clicks no need to thank)</p>
-<img src="finally.png">
+<img src="finally2.png">
   ## License
 
 [MIT License](./LICENSE)
