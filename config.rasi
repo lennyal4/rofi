@@ -1,11 +1,11 @@
 /*Dracula theme based on the Purple official rofi theme*/
 
 * {
-    font: "Jetbrains Mono 12";
-    foreground: #f8f8f2;
-    background-color: #282a36;
-    active-background: #6272a4;
-    urgent-background: #ff5555;
+    font: "Source Code Pro 12";//this is a nano household we don't do that electron stuff here
+    foreground: #b9b9b9;
+    background-color: #101010;
+    active-background: #7c7c7c;
+    urgent-background: #f7f7f7;//no such thing as urgent here
     selected-background: @active-background;
     selected-urgent-background: @urgent-background;
     selected-active-background: @active-background;
