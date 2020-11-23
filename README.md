@@ -1,6 +1,10 @@
 <h3>black eye dracula<h3>
 <p>a theme based on <a href="https://draculatheme.com/rofi/">ralph's rofi theme</a> but grey accents instead of purple</p>
-<h1>coming soon</h1>
+<h4>installing</h4>
+  <p>Activating theme
+
+Copy the config.rasi file into ~/.config/rofi
+i just saved you 5 clicks</p>
   ## License
 
 [MIT License](./LICENSE)
