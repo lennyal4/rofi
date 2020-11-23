@@ -4,7 +4,7 @@
   <p>Activating theme
 
 Copy the config.rasi file into ~/.config/rofi
-i just saved you 5 clicks</p>
+<br><br>(i just saved you 5 clicks no need to thank)</p>
   ## License
 
 [MIT License](./LICENSE)
