@@ -1,4 +1,4 @@
-/*Dracula theme based on the Purple official rofi theme*/
+/*shamlessly stolen from the duracula project*/
 
 * {
     font: "Source Code Pro 12";//this is a nano household we don't do that electron stuff here
